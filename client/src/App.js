@@ -24,7 +24,7 @@ function App() {
     return (
         <div style={{ padding: '20px', fontFamily: 'Arial, sans-serif', maxWidth: '900px', margin: 'auto' }}>
             <h1 style={{ textAlign: 'center', marginBottom: '20px' }}>
-                {userType === 'Admin' ? 'Admin Dashboard' : 'User Dashboard'}
+                {userType === 'Admin' ? 'Admin Dashboard' : ''}
             </h1>
 
             {token ? (
