@@ -79,7 +79,9 @@ with support for user authentication, URL management, statistics tracking, and Q
 ### 1. Backend
 
 1. Install dependencies:
-    ```cd server ; npm install
+     ```bash
+    cd server
+    npm install
     ```
 
 2. Create `.env` file with the following variables:
@@ -90,7 +92,8 @@ with support for user authentication, URL management, statistics tracking, and Q
     ```
     
 3. Run the backend server:
-    ```npm start
+    ```bash
+    npm start
     ```
 
 ---
@@ -98,11 +101,14 @@ with support for user authentication, URL management, statistics tracking, and Q
 ### 2. Frontend
 
 1. Navigate to the frontend folder and install dependencies:
-    ``` cd client ; npm install
+     ```bash
+    cd client
+    npm install
     ```
 
 2. Start the frontend development server:
-    ``` npm start
+    ```bash
+    npm start
     ```
 
 ---
