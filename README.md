@@ -173,9 +173,7 @@ https://github.com/user-attachments/assets/e36181ed-4462-42dc-af8d-eb189ee6babd
 
 - Add pagination for URL list
 - Allow bulk URL import/export
-- Role-based permissions management
 - Dockerize the project for easier deployment
-- Add monitoring dashboards
 
 ---
 
